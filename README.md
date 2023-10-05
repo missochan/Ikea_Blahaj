@@ -1,7 +1,7 @@
 # Blahaj Project: Web Scraping IKEA Store Locations
 Welcome to the Blahaj Project! We're on a mission to compare the prices of the beloved 100cm Blahaj (Ikea Blue Shark) plushie across different countries where IKEA stores are located. Our journey starts with web scraping data about IKEA store locations from Wikipedia, then perform web-scrapping to get the prices of 100cm Blahaj from each of the countries. In the final phase of our project, we will conduct a comprehensive price comparison analysis, utilizing the US dollar as our baseline currency. This analysis will enable us to determine the variations in the cost of the 100cm Blahaj across different regions. By doing so, we aim to provide valuable insights into the cost of living disparities among these locations. 
 
-I have created an interacting visualization of my results in Tableau. Please feel free to visit <a href "https://public.tableau.com/views/IkeaBlahajSharkPriceIndexOct2023/Dashboard1?:language=en-GB&:display_count=n&:origin=viz_share_link"><a/>
+I have created an interacting visualization of my results in Tableau. Please feel free to visit https://public.tableau.com/views/IkeaBlahajSharkPriceIndexOct2023/Dashboard1?:language=en-GB&:display_count=n&:origin=viz_share_link
 
 # Table of Contents
 Introduction
